@@ -121,7 +121,6 @@ if "%lastArg%"=="-s" (
 	set "out=nul"
 	exit /b
 )
-if "%lastArg%"=="-o"
 exit /b
 
 :: USE: call :get_last_arg args
